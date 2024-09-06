@@ -8,7 +8,7 @@
 </p>
 ---
 <p align="center">
-  <a href="https://www.linkedin.com/in/henryedwinomino/">
+  <a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:henryedwin@gmail.com">
