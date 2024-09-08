@@ -8,7 +8,7 @@
 </p>
 ---
 <p align="center">
-  <a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav/">
+  <a href="https://www.linkedin.com/in/henryomino/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:henryedwin@gmail.com">
@@ -45,7 +45,7 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/henryedwinomino/">
+  <a href="https://www.linkedin.com/in/henryomino/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:henryedwin@gmail.com">
