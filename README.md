@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Henry Edwin Omino 👋</h1>
-<h3 align="center">Frontend Developer & IT Business Analyst</h3>
+<h3 align="center">Frontend Developer & IT Business Intelligence Analyst</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React-blue" alt="Frontend Badge">
