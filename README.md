@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React-blue" alt="Frontend Badge">
   <img src="https://img.shields.io/badge/Backend-API-yellowgreen" alt="Backend Badge">
-  <img src="https://img.shields.io/badge/Business_Analyst-IT-blueviolet" alt="IT Business Analyst Badge">
+  <img src="https://img.shields.io/badge/Business_Analyst-IT-blueviolet" alt="Project Management Badge">
 </p>
 ---
 <p align="center">
