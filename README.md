@@ -26,7 +26,7 @@ Hi there! I'm **Henry Edwin Omino**, a passionate **Frontend Developer** and **P
 ## 💡 Let's Connect!  
 Feel free to explore my repositories, collaborate on exciting projects, or just connect to share ideas!  
 
-- **Email**: [henryedwin@gmail.com](mailto:henryedwin@gmail.com)  
+- **Email**: [henryedwin92@gmail.com](mailto:henryedwin92@gmail.com)  
 - **LinkedIn**: [https://www.linkedin.com/in/henryomino/](https://www.linkedin.com/in/henryomino/)  
 
 
