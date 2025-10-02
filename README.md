@@ -28,8 +28,8 @@ Hi there! I'm **Henry Edwin Omino**, a passionate **Frontend Developer** and **P
 ## 📊 GitHub Stats & Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henry Omino&show_icons=true&count_private=true&theme=tokyonight" alt="Henry's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry Omino&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Peddie-dev&show_icons=true&count_private=true&theme=tokyonight" alt="Henry's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peddie-dev&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@ Hi there! I'm **Henry Edwin Omino**, a passionate **Frontend Developer** and **P
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Henry Omino&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Peddie-dev&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
