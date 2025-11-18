@@ -1,6 +1,6 @@
 # 👋 Welcome to Henry Edwin Omino's GitHub
 
-Hi there! I'm **Henry Edwin Omino** — a dedicated **Frontend Developer**, **Emerging Backend Engineer**, and **Project Manager** passionate about building performant digital experiences and delivering projects with precision.
+Hi there! I'm **Henry Edwin Omino** — a passionate **Frontend Developer**, **Backend Beginner**, and **Project Manager** dedicated to building clean, scalable, and user-focused digital experiences.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Peddie-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -10,41 +10,62 @@ Hi there! I'm **Henry Edwin Omino** — a dedicated **Frontend Developer**, **Em
 
 ## 🚀 About Me
 
-- 🎨 **Frontend Development** – I build sleek, intuitive, and responsive interfaces using **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS**, and **Bootstrap**.  
-- 🖥️ **Backend Development (New Journey)** – Currently advancing into backend technologies such as **Node.js**, **Python**, **Django**, and modern databases.  
-- 📊 **Project Management** – Skilled in **Agile**, **Scrum**, and **Waterfall**, ensuring timely and structured project execution.  
-- 🔍 **Analytical Thinker** – I apply data-driven decision-making to create user-centric digital solutions.
+- 🎨 **Frontend Development** – Skilled in crafting intuitive and responsive interfaces using  
+  **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Next.js**, **React Native**, **Tailwind CSS**, and **Bootstrap**.  
+- 🖥️ **Backend Development (Growing Skillset)** – Building experience with **Node.js**, **Python**, **Django**, and relational/non-relational databases.  
+- 📊 **Project Management** – Strong foundation in **Agile**, **Scrum**, and **Waterfall**, ensuring organized and efficient project delivery.  
+- 🔍 **Problem Solver** – Analytical mindset focused on performance, usability, and clarity in all builds.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 💻 Frontend
-- **Languages**: HTML, CSS, JavaScript  
-- **Frameworks & Tools**: React, Tailwind CSS, Bootstrap  
+- HTML, CSS, JavaScript, TypeScript  
+- React, Next.js, React Native  
+- Tailwind CSS, Bootstrap  
 
-### 🖥 Backend (Growing Expertise)
-- **Languages**: JavaScript (Node.js), Python  
-- **Frameworks**: Django, Express.js *(in progress)*  
-- **Databases**: PostgreSQL, MySQL, MongoDB *(learning)*  
+### 🖥 Backend (Developing)
+- Node.js, Python  
+- Django, Express.js  
+- APIs, Authentication, CRUD  
+
+### 🗄 Databases
+- PostgreSQL  
+- MySQL  
+- MongoDB  
 
 ### 📋 Project Management
-- **Methodologies**: Agile, Scrum, Waterfall  
-- **Tools**: Jira, Trello, Asana, Microsoft Project  
-
----
-
-## 🌱 What I'm Learning
-- **Backend development** with Python, Django, and Node.js  
-- Advanced **Next.js** and **TypeScript**  
-- Improved workflow in **certified project management** practices  
+- Agile, Scrum, Waterfall  
+- Jira, Trello, Asana, Microsoft Project  
 
 ---
 
 ## 🧰 Tech Stack
 
+### 🖥 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,python,django,nodejs,postgres,mysql,mongodb,git,figma,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python" />
+</p>
+
+### ⚛️ Frontend Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind,bootstrap" />
+</p>
+
+### 🔧 Backend & Server
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,express" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
@@ -68,8 +89,7 @@ Hi there! I'm **Henry Edwin Omino** — a dedicated **Frontend Developer**, **Em
 
 ## 💬 Let's Connect
 
-💼 Open to collaborations, projects, and conversation around development, design, and project management.
-
+💼 Open to collaborations and building impactful digital solutions — frontend, backend, or full-stack.
 
 
 
