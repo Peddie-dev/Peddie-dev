@@ -18,29 +18,6 @@ Hi there! I'm **Henry Edwin Omino** — a passionate **Frontend Developer**, **B
 
 ---
 
-## 🛠️ Technical Skills
-
-### 💻 Frontend
-- HTML, CSS, JavaScript, TypeScript  
-- React, Next.js, React Native  
-- Tailwind CSS, Bootstrap  
-
-### 🖥 Backend (Developing)
-- Node.js, Python  
-- Django, Express.js  
-- APIs, Authentication, CRUD  
-
-### 🗄 Databases
-- PostgreSQL  
-- MySQL  
-- MongoDB  
-
-### 📋 Project Management
-- Agile, Scrum, Waterfall  
-- Jira, Trello, Asana, Microsoft Project  
-
----
-
 ## 🧰 Tech Stack
 
 ### 🖥 Languages
