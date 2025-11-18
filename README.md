@@ -45,7 +45,7 @@ Hi there! I'm **Henry Edwin Omino** — a passionate **Frontend Developer**, **B
 
 ### 🖥 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
 </p>
 
 ### ⚛️ Frontend Frameworks
